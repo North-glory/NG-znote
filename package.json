@@ -44,7 +44,7 @@
 		"vuepress-theme-reco": "1.6.17",
 		"vuepress": "^1.9.10",
 		"js-yaml": "^4.1.0",
-		"axios": "^0.26.1",
+		"axios": "^1.7.7",
 		"markdown-it-disable-url-encode": "^1.0.1",
 		"jquery": "^3.7.1",
 		"moment": "^2.30.1",
