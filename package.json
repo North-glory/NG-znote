@@ -39,7 +39,7 @@
     "js-yaml": "^4.1.0",
     "markdown-it-disable-url-encode": "^1.0.1",
     "moment": "^2.30.1",
-    "npm": "^6.14.18",
+    "npm": "^11.1.0",
     "vuepress": "^1.9.10",
     "vuepress-plugin-boxx": "^1.0.0",
     "vuepress-plugin-code-copy": "^1.0.6",
